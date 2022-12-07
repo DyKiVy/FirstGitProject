@@ -1,6 +1,7 @@
 def main():
     print("Hello, world!")
     print("My first Git program")
+    print("My commit cod: ca361470c81a750fb42e5ad9b4e2567e73670415")
 
 if __name__ == '__main__':
     main()
